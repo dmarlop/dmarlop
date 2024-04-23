@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola Mundo 👋
+## Soy un estudiante de Desarrollo de aplicaciones web. Tengo conocimientos sobre Java, Javascript, Typescript, CSS, HTML, nociones básicas de Angular y Wordpress. Gestión de base de datos con MYSQL
 
 <!--
 **dmarlop/dmarlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
