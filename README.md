@@ -1,5 +1,5 @@
 ### Hola Mundo 👋
-## Soy un estudiante de Desarrollo de aplicaciones web. Tengo conocimientos sobre Java, Javascript, Typescript, CSS, HTML, nociones básicas de Angular y Wordpress. Gestión de base de datos con MYSQL
+## Soy Desarrollador de aplicaciones web. Tengo conocimientos sobre Java, Javascript, Typescript, CSS, HTML, Angular, Spring Boot, Spring Security, Microsoft Azure. Gestión de base de datos con MYSQL, Integración continua con Jenkins
 
 <!--
 **dmarlop/dmarlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
